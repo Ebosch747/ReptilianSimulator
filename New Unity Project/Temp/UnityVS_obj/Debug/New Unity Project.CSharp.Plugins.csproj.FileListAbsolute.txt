@@ -1,0 +1,17 @@
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_obj\Debug\New Unity Project.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Photon 750ti\Documents\GitHub\ReptilianSimulator\New Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb

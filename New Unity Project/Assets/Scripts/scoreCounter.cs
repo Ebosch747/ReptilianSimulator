@@ -11,10 +11,14 @@ public class scoreCounter : MonoBehaviour {
     public float HighTime;
     public int kills;
     public int highScore;
+
+    GameObject player;
+    PlayerHealth playerhealth;
     // Use this for initialization
     void Start() {
-       
-     
+
+        player = GameObject.FindGameObjectWithTag("leafy");
+        playerhealth = player.GetComponent<PlayerHealth>();
         
     }
 
@@ -58,6 +62,10 @@ public class scoreCounter : MonoBehaviour {
 
     public void TimerFunction()
     {
+        if(playerhealth.Dead)
+        {
+            return;
+        }
         Timer = Timer + Time.deltaTime;
     }
 }
